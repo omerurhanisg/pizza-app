@@ -1,1 +1,1 @@
-pizza app link: https://sleepy-mcclintock-c5f518.netlify.app
+pizza app link: https://stoic-ride-279ba9.netlify.app
